@@ -5,7 +5,6 @@
 ### Prog3
 
 - [labor anyagok](https://github.com/dosabalint/oe-prog3-2020-1)
-- [05 - DLL](https://github.com/dosabalint/oe-prog3-lab-csharp-05)
 
 ### Irtech
 
